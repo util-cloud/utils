@@ -1,0 +1,10 @@
+{
+ "app_name": "so_l1merger",
+ "platform_name": "pantheon",
+ "title": "so_l1merger released 1.7.9",
+ "about": "Merge service for search engine.",
+ "update_detail": "Bugfix: remove trail slash.",
+ "check_method": "www.so.com",
+ "developer": "qianzichen",
+ "version": "1.7.9"
+}
